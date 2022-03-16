@@ -10,7 +10,7 @@
 ## **About me**
 
 I am 30 years old. Until the last events I was a professional bodybuilding coach. It's time for big changes and I want to learn Front-End Development in RSSchool!
-I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills!
 
 ## **Skills**
 
