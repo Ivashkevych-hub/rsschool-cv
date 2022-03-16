@@ -5,7 +5,7 @@
 ### * __Phone__ : +380639309080
 ### * __Email__ : ivashkevich1991@gmail.com
 ### * __Github__ : [Ivashkevych-hub](https://github.com/Ivashkevych-hub)
-### * __Telegram__ : @id090620
+### * __Telegram__ : @id0906200
 
 ## **About me**
 
