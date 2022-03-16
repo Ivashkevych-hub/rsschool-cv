@@ -1,11 +1,11 @@
 # **Alexey Ivashkevych** 
 
 ## **Contacts**
-### *__Location__ : Kyiv , Ukraine
-### *__Phone__ : +380639309080
-### *__Email__ : ivashkevich1991@gmail.com
-### *__Github__ : [Ivashkevych-hub](https://github.com/Ivashkevych-hub)
-### *__Telegram__ : @id090620
+### * __Location__ : Kyiv , Ukraine
+### * __Phone__ : +380639309080
+### * __Email__ : ivashkevich1991@gmail.com
+### * __Github__ : [Ivashkevych-hub](https://github.com/Ivashkevych-hub)
+### * __Telegram__ : @id090620
 
 ## **About me**
 
