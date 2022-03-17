@@ -38,7 +38,7 @@ function sum(a, b) {
 * __Udemy__
     * [WEB-developer 2022](https://www.udemy.com/share/101Wy23@KKC3h_XGNhtCiRFCBzX_xKzSgnEx2Y0Qsa5unRQq95E0BGD0zhsEr1dkvDImDlRlLQ==/) (in progress) 
 
-    * [JS + React](https://www.udemy.com/share/101WCC3@mdooaBCSPpfr2x8FF1zAZe_iPzGW-ec4KXzMreTvz-sMh0zdzEHzXOdidIpyDt5cMw==/)(in progress) 
+    *  [JS + React](https://www.udemy.com/share/101WCC3@mdooaBCSPpfr2x8FF1zAZe_iPzGW-ec4KXzMreTvz-sMh0zdzEHzXOdidIpyDt5cMw==/)(in progress) 
 
 ## __Language__
 
